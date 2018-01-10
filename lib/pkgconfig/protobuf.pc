@@ -1,7 +1,7 @@
-prefix=C:/protobuf-gcc.5.1.0/protobuf/install_dir
-exec_prefix=C:/protobuf-gcc.5.1.0/protobuf/install_dir
-libdir=C:/protobuf-gcc.5.1.0/protobuf/install_dir/lib
-includedir=C:/protobuf-gcc.5.1.0/protobuf/install_dir/include
+prefix=C:/C++/protobuf/gcc-5.1.0-sjlj/install_dir
+exec_prefix=C:/C++/protobuf/gcc-5.1.0-sjlj/install_dir
+libdir=C:/C++/protobuf/gcc-5.1.0-sjlj/install_dir/lib
+includedir=C:/C++/protobuf/gcc-5.1.0-sjlj/install_dir/include
 
 Name: Protocol Buffers
 Description: Google's Data Interchange Format
