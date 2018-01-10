@@ -45,5 +45,8 @@ protoc -I=./ --cpp_out=./ addressbook.proto
 
 g++ -I"C:/C++/protobuf.3.5.1-gcc.4.9.2/include" -L"C:/C++/protobuf.3.5.1-gcc.4.9.2/lib" main.cpp addressbook.pb.cc -lprotobuf -pthread
 
+g++ -I"C:/C++/protobuf/protobuf.3.5.1-gcc.5.1.0/include" -L"C:/C++/protobuf/protobuf.3.5.1-gcc.5.1.0/lib" main.cpp addressbook.pb.cc -lprotobuf -pthread -static-libgcc -std=c++11
+
+
 
 
