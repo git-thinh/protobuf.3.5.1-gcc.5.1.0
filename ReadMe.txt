@@ -1,3 +1,4 @@
+MinGW-x86_65-gcc-5.1.0-sjlj
 
 Download and carefully unzip it somewhere else and add a "-mingw" suffix to the directory name. https://github.com/google/protobuf/archive/v3.0.0-beta-2.tar.gz
 
